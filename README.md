@@ -1,8 +1,8 @@
 # Zilog Z80 emulator
 
-**WARNING** Interruptions are not completely implemented
+A Z80 emulator written in C++ just for fun.
 
-# Background
+**WARNING** Interruptions are not completely implemented and this readme are only personal notes.
 
 
 # Features
