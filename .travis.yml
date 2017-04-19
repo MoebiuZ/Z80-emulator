@@ -4,6 +4,5 @@ sudo: false
 
 compiler:
   - clang++
-  - g++
-  
+
 script: make
