@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MoebiuZ/Z80-emulator.svg?branch=master)](https://travis-ci.org/MoebiuZ/Z80-emulator)
+
 # Zilog Z80 emulator
 
 A Z80 emulator written in C++ just for fun.
