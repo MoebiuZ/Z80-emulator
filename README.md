@@ -1,4 +1,8 @@
 [![Build Status](https://travis-ci.org/MoebiuZ/Z80-emulator.svg?branch=master)](https://travis-ci.org/MoebiuZ/Z80-emulator)
+<a href="https://scan.coverity.com/projects/moebiuz-z80-emulator">
+  <img alt="Coverity Scan Build Status"
+       src="https://scan.coverity.com/projects/12495/badge.svg"/>
+</a>
 
 # Zilog Z80 emulator
 
