@@ -6,4 +6,4 @@ compiler:
   - clang++
   - g++
   
- script: make
+script: make
