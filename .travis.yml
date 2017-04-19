@@ -1,9 +1,9 @@
-language: c++
+language: cpp
 
 sudo: false
 
 compiler:
-  - clang
-  - gcc
+  - clang++
+  - g++
   
  script: make
