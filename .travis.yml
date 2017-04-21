@@ -16,8 +16,9 @@ addons:
     project:
       name: "MoebiuZ/Z80-emulator"
       description: "Build submitted via Travis CI"
+    notification_email: moefling@gmail.com
     build_command:   "make"
-    branch_pattern: "coverity_scan"
+    branch_pattern: coverity_scan
 
 language: cpp
 
