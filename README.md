@@ -15,8 +15,6 @@ A Z80 emulator written in C++ just for fun.
 
 * Undocumented opcodes
 
-
-
 # Usage
 
 Z80 cpu = new Z80();
